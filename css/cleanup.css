@@ -8,6 +8,6 @@ body #wall #tag-2{
   display:none;
 }
 
-body.parent #tag-5{
+div.parent #tag-5{
   display: none;
 }
